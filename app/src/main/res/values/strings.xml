@@ -1,0 +1,37 @@
+<resources>
+<string name="app_name">TP2_Grupo7_VF</string>
+<string name="titleDatosExtra">FORMULARIO DE CONTACTO</string>
+<string name="subDatosExtra">A continuacion, por favor se pide completar mas datos personales.</string>
+<string name="titleRadioGroup">NIVEL DE ESTUDIOS ALCANZADOS</string>
+<string name="tvTituloFormularioContacto">FORMULARIO DE CONTACTO</string>
+<string name="tvTextoFormulario">Este es un formulario destinado al registro de personas, sus datos personales e intereses.</string>
+<string name="tvTextoFormulario2">A continuación, por favor se pide completar más datos personales.</string>
+<string name="hintNombre">Nombre</string>
+<string name="hintApellido">Apellido</string>
+<string name="hintTelefono">Telefono</string>
+<string name="hintEmail">Email</string>
+<string name="hintDireccion">Direccion</string>
+<string name="hintFechaNacimiento">Fecha nacimiento</string>
+<string name="tvNombre">NOMBRE</string>
+<string name="tvApellido">APELLIDO</string>
+<string name="tvTelefono">TELÉFONO</string>
+<string name="tvEmail">EMAIL</string>
+<string name="tvDireccion">DIRECCION</string>
+<string name="tvFechaNacimiento">FECHA DE NACIMIENTO</string>
+<string name="btnContinuar">CONTINUAR</string>
+<string name="btnGuardar">GUARDAR</string>
+<string name="btnVolver">VOLVER</string>
+<string name="tvTextoRadioButton">NIVEL DE ESTUDIOS ALCANZADOS</string>
+<string name="tvRadioButtonOpcion1">Primario incompleto</string>
+<string name="tvRadioButtonOpcion2">Primario completo</string>
+<string name="tvRadioButtonOpcion3">Secundario incompleto</string>
+<string name="tvRadioButtonOpcion4">Secundario completo</string>
+<string name="tvRadioButtonOpcion5">Otros</string>
+<string name="tvTextoCheckBox">INTERESES</string>
+<string name="tvCheckBoxOpcion1">Deporte</string>
+<string name="tvCheckBoxOpcion2">Musica</string>
+<string name="tvCheckBoxOpcion3">Arte</string>
+<string name="tvCheckBoxOpcion4">Tecnologia</string>
+<string name="tvRecibirInformacion">DESEA RECIBIR INFORMACION?</string>
+<string name="tvSi">Si</string>
+</resources>
